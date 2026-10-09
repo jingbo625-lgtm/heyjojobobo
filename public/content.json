@@ -1,0 +1,82 @@
+{
+  "studioNote": "Independent\nAI creative",
+  "exploreLabel": "Explore the work",
+  "allLabel": "All works",
+  "workFooter": "想象没有固定的形状。",
+  "talkLabel": "Let’s talk",
+  "topLabel": "Back to top ↑",
+  "demoNote": "",
+  "brand": "JOJOBOBO",
+  "headline": "Dreams\ntake form.",
+  "intro": "AI films, images & imagined worlds.",
+  "heroVideo": "media/hero.mp4",
+  "heroPoster": "",
+  "reelLabel": "A study in motion / 2026",
+  "workTitle": "Selected works",
+  "workIntro": "一些想象，一些实验。\n用 AI 探索影像与视觉。",
+  "contactTitle": "Have a wild idea?",
+  "contactText": "让下一个想象，成为看得见的作品。",
+  "email": "jingbo625.com",
+  "copyright": "© 2026 Frame. Independent AI creative.",
+  "navHome": "Home",
+  "navVideos": "Videos",
+  "navPictures": "Pictures",
+  "navContact": "Contact",
+  "projects": [
+    {
+      "id": "bloom",
+      "title": "Grocery",
+      "category": "Videos",
+      "subcategory": "",
+      "year": "",
+      "description": "",
+      "type": "video",
+      "src": "media/grocery.mp4",
+      "poster": ""
+    },
+    {
+      "id": "21414279-f538-42fc-8646-b374b47b63aa",
+      "title": "The Last Question 1",
+      "category": "Videos",
+      "subcategory": "视觉实验",
+      "year": "2026",
+      "description": "改编自阿西莫夫短片《最后的问题》",
+      "type": "video",
+      "src": "media/last-question-1.mp4",
+      "poster": ""
+    },
+    {
+      "id": "5a6bb840-5f3d-40ef-8d9c-b54e822ef166",
+      "title": "The Last Question 3",
+      "category": "Videos",
+      "subcategory": "视觉实验",
+      "year": "2026",
+      "description": "",
+      "type": "video",
+      "src": "media/last-question-3.mp4",
+      "poster": ""
+    },
+    {
+      "id": "ocean",
+      "title": "Blue hours 1",
+      "category": "Pictures",
+      "subcategory": "视觉实验",
+      "year": "2026",
+      "description": "",
+      "type": "image",
+      "src": "media/blue-hours-1.jpg",
+      "poster": ""
+    },
+    {
+      "id": "44545732-b4bb-45bf-9049-8e7e1be7f703",
+      "title": "outside",
+      "category": "Pictures",
+      "subcategory": "视觉实验",
+      "year": "2026",
+      "description": "",
+      "type": "image",
+      "src": "media/outside.jpg",
+      "poster": ""
+    }
+  ]
+}
